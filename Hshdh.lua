@@ -130,9 +130,9 @@ function Library:NewWindow(ConfigWindow)
 
 	local ConfigWindow = self:MakeConfig({
 
-		Title = "Night Mystic",
+		Title = "SYNTRAX Hub",
 
-		Description = "By araujozwx & Mauro",
+		Description = "By Thais",
 
 	}, ConfigWindow or {})
 
