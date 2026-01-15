@@ -3263,7 +3263,7 @@ function Library:NewWindow(ConfigWindow)
 
 	G2L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 
-	G2L["2"]["Image"] = [[rbxassetid://88837793631668]];
+	G2L["2"]["Image"] = [[rbxassetid://101817370702077]];
 
 	G2L["2"]["Size"] = UDim2.new(0, 50, 0, 50);
 
