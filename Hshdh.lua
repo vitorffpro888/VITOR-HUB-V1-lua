@@ -130,9 +130,9 @@ function Library:NewWindow(ConfigWindow)
 
 	local ConfigWindow = self:MakeConfig({
 
-		Title = "SYNTRAX Hub",
+		Title = "binh an dz Hub",
 
-		Description = "By Thais",
+		Description = "By binh an ",
 
 	}, ConfigWindow or {})
 
@@ -374,7 +374,7 @@ function Library:NewWindow(ConfigWindow)
 
 	LogoHub.Size = UDim2.new(0, 40, 0, 35)
 
-	LogoHub.Image = "rbxassetid://123256573634"
+	LogoHub.Image = "rbxassetid://104011851631877"
 
 	Desc.Name = "Desc"
 
